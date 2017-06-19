@@ -1,2 +1,2 @@
 # gitclass-repo
-Throw this away later
+This is a repository for the class.
